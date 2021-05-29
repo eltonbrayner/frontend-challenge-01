@@ -50,7 +50,7 @@ body {
 }
 
 img {
-  height: auto;
+  height: 100%;
   width: 100%;
   opacity: 0.7;
 }
@@ -98,4 +98,34 @@ img {
   display: block;
   color: hsla(0, 0%, 100%, 0.6);
   text-transform: uppercase;
+}
+
+@media (max-width: 64rem) {
+  body {
+    height: auto;
+  }
+
+  .container {
+    width: 90%;
+    max-height: 90%;
+    overflow-y: scroll;
+    grid-template-columns: none;
+    grid-template-rows: 35% 65%;
+    grid-template-areas:
+      'img-header'
+      'content-text-main';
+  }
+
+  .cardLeft {
+    padding: 30px;
+    grid-area: content-text-main;
+  }
+
+  .cardRight {
+    grid-area: img-header;
+  }
+
+  img {
+    width: auto;
+  }
 }
