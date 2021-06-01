@@ -10,7 +10,7 @@
 
 - [Elton Brayner](https://www.linkedin.com/in/eltonbrayner/)
 
-# Stats preview card component
+## Stats preview card component
 
 - [Preview](https://eltonbrayner.github.io/frontend-challenge-01/)
 
