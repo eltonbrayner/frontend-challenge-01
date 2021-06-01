@@ -8,9 +8,7 @@
 
 ## Author
 
-- Elton Brayner
-
-- [LinkedIn](https://www.linkedin.com/in/eltonbrayner/)
+- [Elton Brayner](https://www.linkedin.com/in/eltonbrayner/)
 
 # Stats preview card component
 
