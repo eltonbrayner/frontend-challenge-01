@@ -1,4 +1,4 @@
-# Frontend Mentor - Stats preview card component
+# Frontend Mentor Challenge
 
 ## Stats preview card component
 
@@ -11,7 +11,8 @@
 - Elton Brayner
 
 - [LinkedIn](https://www.linkedin.com/in/eltonbrayner/)
-# 3-column-preview-card-component-main
+
+# Stats preview card component
 
 - [Preview](https://eltonbrayner.github.io/frontend-challenge-01/)
 
